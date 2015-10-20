@@ -1,2 +1,2 @@
-# poncho-weather-clustering
-# Cluster weather data 
+#poncho-weather-clustering
+Cluster weather data 
